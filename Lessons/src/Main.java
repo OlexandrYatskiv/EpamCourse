@@ -85,7 +85,9 @@ public class Main {
         }
         System.out.println("Час виконання: " + elapsedTime + " мс");
 
-
+/* Bubble Sorting: 7300ms
+   Instertion soritng: 1180ms
+   Merge sorting: 15ms*/
     }
 
 
